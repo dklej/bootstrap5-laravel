@@ -1,0 +1,17 @@
+{
+    "name": "PWA Dawid Klej",
+    "short_name": "PWA-DK",
+    "start_url": "/",
+    "background-_color": "#6777ef",
+    "description": "Projekt na zaliczenie",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons":[
+        {
+            "src": "images/book-stack.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

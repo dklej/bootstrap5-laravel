@@ -1,0 +1,70 @@
+body{
+    background-color: #dfe3ee;
+}
+.container{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar-dk{
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #8b9dc3;
+}
+
+.card{
+    margin-top: 40px;
+    border: 1px;
+}
+
+.card-title{
+    margin: -16px -16px 0px -16px;
+    padding: 0px;
+    background-color: #8b9dc3;
+    padding: 8px;
+}
+
+h3{
+    min-height: 80px;
+
+}
+
+.card-header{
+    background-color: #8b9dc3;
+}
+
+.bnt-more{
+    float: right;
+}
+img{
+    max-height: 30vw;
+}
+
+.bnt-modal-dk{
+    display: none;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 990px){
+    .navbar-dk{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .desc_hide{
+        display: none;
+    }
+    .bnt-modal-dk{
+        display: inline;
+    }
+    .card-title-dk{
+        min-height: 25vh;
+    }
+
+
+}
